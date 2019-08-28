@@ -1,6 +1,6 @@
-#  Exchange官方API文档
+#  SDCE OPEN API
 
-#### Exchange交易所开发文档([English Docs](https://github.com/exchange-doc/api/blob/master/api/us_en/api_doc_en.md))
+#### SDCE交易所开发文档([English Docs](https://github.com/exchange-doc/api/blob/master/api/us_en/api_doc_en.md))
 - [介绍](#Introduction)
 - [开始使用](#startToUse)
 - [API接口加密验证](#a1)
